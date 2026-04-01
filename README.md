@@ -28,7 +28,7 @@ The following diagram illustrates the end-to-end pipeline designed to transform 
 
 
 1. **Ingestion:** High-performance querying of 7.5M records via **DuckDB**.
-2. **Preprocessing:** Behavioral profiling through vectorized temporal aggregations, **Operational Stress Analysis**, and **Maintenance Window/Reboot Detection**.
+2. **Preprocessing:** Behavioral profiling through vectorized temporal aggregations, **Operational Stress Analysis** and **Maintenance Window/Reboot Detection**.
 3. **Intelligence Layer:** Comparative analysis between Classical ML, Regression for RUL, and Deep Learning.
 4. **Diagnostic UI:** Historical data exploration and knowledge discovery via a custom **Streamlit** dashboard.
 
