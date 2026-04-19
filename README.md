@@ -73,7 +73,7 @@ The modeling strategy followed a chronological research path. To maintain the in
 
 ##  Tech Stack
 - **Data Engine:** `Python`, `Pandas`, `NumPy`, `DuckDB`, `PyArrow`
-- **Machine Learning (XAI):** `Scikit-learn`, `sktime`, `MiniRocket`, `XGBoost`, `LightGBM`, `SHAP`
+- **Machine Learning (XAI):** `Scikit-learn`, `sktime`, `MiniRocket`, `XGBoost`, `LightGBM`, `Decision Forest`, `Random Forest`, `SHAP`
 - **Deep Learning:** `TensorFlow/Keras (LSTM)`
 - **Visualization:** `Streamlit`, `Plotly`, `Matplotlib`, `Seaborn`
 
